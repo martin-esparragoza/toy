@@ -103,6 +103,7 @@ class model:
             print(f"GENERATION NUMBER {i}. AGENT EVAL {smartestAgent.eval}");
             
 
+# SAMPLE CODE
 n = model(3, 5);
 n.initWeights(0, 5);
 n.setInput([0, 1, 2]);
