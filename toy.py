@@ -1,7 +1,7 @@
-from random import *;
-from matplotlib import pyplot as plt;
-from math import *;
-import numpy as np;
+from random import *
+from matplotlib import pyplot as plt
+from math import *
+import numpy as np
 
 class Agent:
     def __init__(self, input, weights, outputNodes, target):
